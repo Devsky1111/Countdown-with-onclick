@@ -25,3 +25,12 @@
 .clock-desc {
     text-align: center;
 }
+input {
+    padding: 5px;
+}
+button {
+    padding: 5px;
+}
+form {
+    margin-top: 20px;
+}
